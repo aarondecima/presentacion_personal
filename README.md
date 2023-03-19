@@ -12,5 +12,5 @@ Actualmente me encuentro sin trabajo.
 - Edad: 21
 - Estado Civil: Soltero
 - Vivo en la ciudad de José C. Paz
-- Me gusta: Anime, Manga, Twitch, Videojuegos
+- Me gusta: Anime, Manga, [Twitch](https://www.twitch.tv), Videojuegos
 
