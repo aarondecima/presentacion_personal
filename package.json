@@ -4,6 +4,7 @@
   "description": "![Yo](./imagenes/NAD.jpg \"Este soy yo\")",
   "main": "app.js",
   "scripts": {
+    "start": "node ./src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/aarondecima/presentacion_personal/issues"
   },
-  "homepage": "https://github.com/aarondecima/presentacion_personal#readme"
+  "homepage": "https://github.com/aarondecima/presentacion_personal#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
